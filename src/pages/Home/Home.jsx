@@ -1,7 +1,8 @@
+import Todolist from "../../components/Todolist/Todolist";
 const Home = () => {
   return (
     <div>
-      <h1>hello this is a test for home page</h1>
+      <Todolist />
     </div>
   );
 };
